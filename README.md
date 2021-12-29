@@ -1,0 +1,2 @@
+# Telecom-Customer-Churn
+These data includes information about 7043 customers for phone company that want to analysis what factors that affect on customers to churn to another company and obtains 21 different characteristics of their phone serveces and their fetures compared to if they churn or not.Varibles include Phone Service, Internet Service, TechSupport, Payment Method, contract, TotalCharges and others.
